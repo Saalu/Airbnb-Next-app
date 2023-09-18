@@ -1,3 +1,5 @@
+"use Client";
+
 import Container from "../Container";
 import Logo from "./Logo";
 import Searchbar from "./Searchbar";
